@@ -16,3 +16,6 @@ The dataset consists of the following fields:
 - **DegradationLevel**: The level of degradation recorded at the time of recording.
 
 ## Sample Data
+{'SensorID': 1, 'Timestamp': datetime.datetime(2024, 1, 2, 0, 0), 'SensorValue': 60.1641, 'Temperature': 20.3917, 'Humidity': 59.0499, 'DegradationLevel': 0.012346}
+|Sensor ID | 1|
+|Timestamp | 2024/1/2 00:00 |
