@@ -26,3 +26,6 @@ The dataset consists of the following fields:
 |Degradation Level |0.012346 |
 
 ## Data Statistics
+
+![image](https://github.com/dlrow18/cheminf-EDU/assets/166999523/cadcc85b-17a5-477b-81f6-38adeb43020a)
+
