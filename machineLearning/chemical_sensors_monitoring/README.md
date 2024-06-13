@@ -8,12 +8,12 @@ This repository contains a dataset collected from a sensor over a period of time
 
 The dataset consists of the following fields:
 
-- **SensorID**: Identifier for the sensor.
-- **Timestamp**: The date and time when the data was recorded.
-- **SensorValue**: The value recorded by the sensor.
-- **Temperature**: The temperature at the time of recording.
-- **Humidity**: The humidity level at the time of recording.
-- **DegradationLevel**: The level of degradation recorded at the time of recording.
+- **SensorID**: A unique identifier for each sensor.
+- **Timestamp**: The specific date and time when the data was recorded.
+- **SensorValue**: The numerical value recorded by the sensor at the given timestamp. 
+- **Temperature**: The ambient temperature in degrees Celsius at the time the data was recorded.
+- **Humidity**: he absolute humidity at the time the data was recorded, measured in grams of water vapor per cubic meter of air (g/m³). 
+- **DegradationLevel**: A measure indicating the level of degradation, where a higher value represents greater degradation.
 
 ## Sample Data
 |Feature | Value |
@@ -24,3 +24,5 @@ The dataset consists of the following fields:
 |Temperature | 20.3917 |
 |Humidity | 59.0499 |
 |Degradation Level |0.012346 |
+
+## Data Statistics
